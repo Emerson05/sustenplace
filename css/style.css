@@ -37,5 +37,30 @@ a{
     border-radius: none;
 }
 
+.nav-link{
+    color: black;
+    
+    text-decoration-color: black;
+}
+
+.form-inline{
+   padding-right: 50px;
+   padding-top: 90px;
+   padding-bottom: 25px;
+   margin-bottom: 30px;
+   
+    
+}
+
+#bntpesquisar{
+    font-size: 15px;
+    
+    padding-bottom: 3px;
+    padding-top: 3px;
+    margin: 0;
+   
+}
+
+
 
 

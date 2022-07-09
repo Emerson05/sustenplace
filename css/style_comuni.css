@@ -1,0 +1,91 @@
+a{
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 35px;
+    
+}
+
+#menuA{
+    
+    padding-top: 30px;
+    font-size: 20px;
+    
+      
+
+}
+
+
+
+#logo-topo{
+   
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+
+    
+
+}
+
+.card{
+    margin: auto;
+    width: 500px;
+    height: auto;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    border: 4px double black;
+    border-radius: 20px;
+    background-color: #fbbb42;
+
+}
+
+#logo-topo{
+   
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+
+    
+
+}
+
+
+
+#foto3{
+    width: 60px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+
+span{
+    text-align: center;
+    float: left;
+    position: relative;
+    margin-left: 25px ;
+    margin-top: 10px;
+    font-size: 18px;
+    
+    
+   
+}
+
+.card-text{
+    position: relative;
+
+}
+
+.button_coment{
+    background-color: #92b35a;
+    border-radius: 50px;
+    border: solid 1px black;
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    height: 35px;
+}
